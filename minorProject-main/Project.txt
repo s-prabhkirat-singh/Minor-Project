@@ -1,0 +1,8 @@
+Mongo is a database
+Express develops a connection with the database
+Node js is a server
+React is a frontend having static files
+
+The files of the react are stored on a different sever That is Cdn
+CDN -- nat the nearest 
+Eg - netify vercel
